@@ -24,7 +24,7 @@ main {
 }
 
 section#telefone {
-    height: 627px;
+    height: 620px;
     width: 311px; 
     position: absolute;
     top: 50%;
@@ -38,7 +38,8 @@ iframe#tela {
     top: 80px;
     left: 22px;
     width: 269px;
-    height: 468px;
+    height: 471px;
+    border-radius: 5px;
 }
 
 section#redes-sociais {
